@@ -3,7 +3,7 @@ I am a dedicated **Cyber Security professional** committed to developing robust 
  
 ---
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=www.linkedin.com/in/harsheh)](www.linkedin.com/in/harsheh) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thisisharshyadav002@gmail.com)](mailto:thisisharshyadav002@gmail.com)
+
 
 ---
 ### 🚀 About Me
