@@ -18,7 +18,7 @@ I am a dedicated **Cyber Security professional** committed to developing robust 
 ### 🔧 Skills & Technologies
 
 - **Programming Languages**: Python,C, C++, HTML, JAVA, MYSQL, CSS
-- **Cyber Security**: Application Security, Network Security, Vulnerability Assessment and Penetration Testing (VAPT), Manual Testing, Linux, SDLC, STLC
+- **SKILLS**:Manual Testing, Linux, SDLC, STLC, Application Security, Network Security, Vulnerability Assessment and Penetration Testing (VAPT), 
 - **Tools**: Burp Suite, Nessus, Metasploit, Wireshark, Nmap, Selenium, Postman, OWASP ZAP, Acunetix, ZAP Proxy
 
 ---
